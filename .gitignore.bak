@@ -1,3 +1,4 @@
 back\venv\
-front2\proj\node_modules\
 scrapy_kursach\venv\
+front2\proj\node_modules\
+*.bak
